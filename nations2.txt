@@ -1,0 +1,1 @@
+[{"name":"Admin","region":"Sub-Saharan Africa","income":[[1800,359.93],],"population":[[2011,1567028],],"lifeExpectancy":[[1800,26.98],]}]

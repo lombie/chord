@@ -1,0 +1,484 @@
+caller,called,count
+Admin Phone,Ilhan Cin,704
+Admin Phone,Other,826
+Alev Orsel Karaca,Altug Ilkucan,1435
+Alev Orsel Karaca,Amer Delic,198
+Alev Orsel Karaca,Brenda Goddard,664
+Alev Orsel Karaca,Carol Batchelor,1434
+Alev Orsel Karaca,Elif Selen Ay,574
+Alev Orsel Karaca,Karim Atassi,309
+Alev Orsel Karaca,Nese Kilincoglu,608
+Alev Orsel Karaca,Other,58217
+Alev Orsel Karaca,Selin Unal,3164
+Alev Orsel Karaca,Sezen Gulseren,173
+Alev Orsel Karaca,Yusra Hilal,185
+Altug Ilkucan,Alev Orsel Karaca,876
+Altug Ilkucan,Carol Batchelor,3078
+Altug Ilkucan,Christine Goyer,267
+Altug Ilkucan,Drene Sariffodeen,251
+Altug Ilkucan,Elif Selen Ay,675
+Altug Ilkucan,Ilhan Cin,46
+Altug Ilkucan,Karim Atassi,216
+Altug Ilkucan,Nikolay Vanchev,110
+Altug Ilkucan,Other,11592
+Altug Ilkucan,Sezen Gulseren,20
+Altug Ilkucan,Song Jing,15
+Amer Delic,Brenda Goddard,6010
+Amer Delic,Carol Batchelor,105
+Amer Delic,Christine Goyer,15599
+Amer Delic,Elif Selen Ay,195
+Amer Delic,Karim Atassi,129
+Amer Delic,Luca Curci,322
+Amer Delic,Nathalie Springuel,129
+Amer Delic,Other,23585
+Annabel Mwangi,Other,111
+Luca Curci,Alev Orsel Karaca,72
+Luca Curci,Amer Delic,648
+Luca Curci,Elif Selen Ay,33
+Luca Curci,Erhan Seylan,12
+Luca Curci,Jennifer Roberts,808
+Luca Curci,Karim Atassi,351
+Luca Curci,Nathalie Springuel,340
+Luca Curci,Other,3539
+Argun Kopar,Aydin Karaman,87
+Argun Kopar,Didem Yuce,160
+Argun Kopar,Harun Akkoz,15
+Argun Kopar,Ilhan Cin,6
+Argun Kopar,Niyazi Salva,498
+Argun Kopar,Onder Dogan,128
+Argun Kopar,Other,18565
+Argun Kopar,Serhat Idem,879
+Argun Kopar,Tugba Mater,62
+Aynur Seda Baran,Elif Selen Ay,278
+Aynur Seda Baran,Other,13613
+Brenda Goddard,Alev Orsel Karaca,406
+Brenda Goddard,Amer Delic,1872
+Brenda Goddard,Christine Goyer,257
+Brenda Goddard,Johannes Van Gemund,42
+Brenda Goddard,Karim Atassi,487
+Brenda Goddard,Nathalie Springuel,29
+Brenda Goddard,Other,245
+Brenda Goddard,Sezen Gulseren,15
+Carol Batchelor,Alev Orsel Karaca,5864
+Carol Batchelor,Altug Ilkucan,7046
+Carol Batchelor,Amer Delic,496
+Carol Batchelor,Carol Batchelor,544
+Carol Batchelor,Karim Atassi,2255
+Carol Batchelor,Nikolay Vanchev,43
+Carol Batchelor,Other,24776
+Carol Batchelor,Selin Unal,1778
+Carol Batchelor,Sezen Gulseren,39
+Christine Goyer,Altug Ilkucan,109
+Christine Goyer,Amer Delic,8719
+Christine Goyer,Brenda Goddard,2071
+Christine Goyer,Erhan Vural,125
+Christine Goyer,Karim Atassi,30
+Christine Goyer,Other,10914
+Christine Goyer,Zeynep Iclal Incioglu,61
+Christophe Petit,Argun Kopar,7
+Christophe Petit,Gaye Ulutas,72
+Christophe Petit,Onder Dogan,394
+Christophe Petit,Other,6282
+Didem Yuce,Ali Dher Hayo,19
+Didem Yuce,Aydin Karaman,38
+Didem Yuce,Aydin Yaman,1188
+Didem Yuce,Ceren Aricigioglu,2
+Didem Yuce,Fatma Duygu Ergul,261
+Didem Yuce,Harun Akkoz,145
+Didem Yuce,Ilhan Cin,221
+Didem Yuce,Niyazi Salva,453
+Didem Yuce,Other,8974
+Didem Yuce,Serhat Idem,185
+Drene Sariffodeen,Other,27495
+Elif Selen Ay,Alev Orsel Karaca,2202
+Elif Selen Ay,Altug Ilkucan,731
+Elif Selen Ay,Brenda Goddard,63
+Elif Selen Ay,Karim Atassi,1123
+Elif Selen Ay,Luca Curci,1985
+Elif Selen Ay,Nathalie Springuel,79
+Elif Selen Ay,Nese Kilincoglu,1078
+Elif Selen Ay,Nikolay Vanchev,147
+Elif Selen Ay,Other,25028
+Elif Selen Ay,Selin Unal,614
+Elif Selen Ay,Sezen Gulseren,201
+Elif Selen Ay,Yusra Hilal,2862
+Elif Zeybel,Other,339
+Elmar Bagirov,Christine Goyer,1576
+Elmar Bagirov,Johannes Van Gemund,119
+Elmar Bagirov,Luca Curci,80
+Elmar Bagirov,Other,1945
+Erhan Seylan,Nikolay Vanchev,2635
+Erhan Seylan,Other,4780
+Erhan Seylan,Tayfun Albayrak,248
+Erhan Vural,Christine Goyer,35
+Erhan Vural,Other,4813
+Erhan Vural,Taylan Dagci,54
+Esra Su,Other,6045
+Esra Su,Zeynep Iclal Incioglu,34
+Firat Elmas,Ali Dher Hayo,568
+Firat Elmas,Harun Akkoz,13
+Firat Elmas,Other,5556
+Firat Elmas,Yasemin Ercan,122
+Francesca Lubrano,Ali Dher Hayo,450
+Francesca Lubrano,Argun Kopar,21
+Francesca Lubrano,Aydin Karaman,98
+Francesca Lubrano,Aydin Yaman,3100
+Francesca Lubrano,Didem Yuce,301
+Francesca Lubrano,Fatma Duygu Ergul,139
+Francesca Lubrano,Harun Akkoz,399
+Francesca Lubrano,Ilhan Cin,158
+Francesca Lubrano,Other,41182
+Francesca Lubrano,Said Abdullah,846
+Fuat Ozdogru,Alev Orsel Karaca,291
+Fuat Ozdogru,Altug Ilkucan,61
+Fuat Ozdogru,Amer Delic,988
+Fuat Ozdogru,Argun Kopar,179
+Fuat Ozdogru,Deniz Gucuk,2
+Fuat Ozdogru,Drene Sariffodeen,45
+Fuat Ozdogru,Gaye Ulutas,307
+Fuat Ozdogru,Kubra Berki,2429
+Fuat Ozdogru,Other,35333
+Fuat Ozdogru,Song Jing,76
+Fuat Ozdogru,Tayba Sharif,125
+Fuat Ozdogru,Tayfun Albayrak,75
+Fuat Ozdogru,Taylan Dagci,466
+Ganga Rathnayaka,Ali Dher Hayo,893
+Ganga Rathnayaka,Altug Ilkucan,140
+Ganga Rathnayaka,Argun Kopar,984
+Ganga Rathnayaka,Drene Sariffodeen,2391
+Ganga Rathnayaka,Fatma Duygu Ergul,33
+Ganga Rathnayaka,Gaye Ulutas,509
+Ganga Rathnayaka,Harun Akkoz,753
+Ganga Rathnayaka,Ilhan Cin,83
+Ganga Rathnayaka,Onder Dogan,228
+Ganga Rathnayaka,Other,14652
+Ganga Rathnayaka,Said Abdullah,2145
+Ganga Rathnayaka,Tayfun Albayrak,207
+Ganga Rathnayaka,Tugba Mater,47
+Gaye Ulutas,Other,8198
+Gizem Ulic,Other,4036
+Harun Akkoz,Ali Dher Hayo,318
+Harun Akkoz,Argun Kopar,175
+Harun Akkoz,Aydin Karaman,254
+Harun Akkoz,Didem Yuce,240
+Harun Akkoz,Fatma Duygu Ergul,96
+Harun Akkoz,Harun Akkoz,444
+Harun Akkoz,Other,1277
+Harun Akkoz,Serhat Idem,280
+Hassan Abdallah,Ali Dher Hayo,1369
+Hassan Abdallah,Altug Ilkucan,188
+Hassan Abdallah,Ceren Aricigioglu,244
+Hassan Abdallah,Drene Sariffodeen,214
+Hassan Abdallah,Gaye Ulutas,1991
+Hassan Abdallah,Karim Atassi,235
+Hassan Abdallah,Other,28171
+Hassan Abdallah,Tugba Mater,421
+Hassan Abdallah,Yusra Hilal,26
+Hatay Field Unit,Jennifer Roberts,1437
+Hatay Field Unit,Other,13686
+Hatay Field Unit,Pinar Genc Akcakaya,347
+Hatay Field Unit,Taylan Dagci,122
+Ilhan Cin,Ali Dher Hayo,169
+Ilhan Cin,Argun Kopar,30
+Ilhan Cin,Aydin Karaman,479
+Ilhan Cin,Aynur Seda Baran,13
+Ilhan Cin,Ceren Aricigioglu,604
+Ilhan Cin,Didem Yuce,223
+Ilhan Cin,Fatma Duygu Ergul,29
+Ilhan Cin,Niyazi Salva,162
+Ilhan Cin,Other,5886
+Ilhan Cin,Said Abdullah,154
+Ilhan Cin,Serhat Idem,21
+Ilhan Cin,Tayba Sharif,40
+Ilhan Cin,Taylan Dagci,111
+Ilhan Cin,Teresita Cedeno,489
+Ilhan Cin,Zeynep Iclal Incioglu,20
+Istanbul Duty Phone,Other,40870
+Jaqueline Awino,Other,330
+Jennifer Roberts,Amer Delic,150
+Jennifer Roberts,Ceren Aricigioglu,347
+Jennifer Roberts,Nayana Bose,86
+Jennifer Roberts,Other,4391
+Johannes Van Gemund,Altug Ilkucan,641
+Johannes Van Gemund,Brenda Goddard,150
+Johannes Van Gemund,Christine Goyer,312
+Johannes Van Gemund,Karim Atassi,190
+Johannes Van Gemund,Luca Curci,10
+Johannes Van Gemund,Nikolay Vanchev,48
+Johannes Van Gemund,Other,8602
+Johannes Van Gemund,Selin Unal,3694
+Johannes Van Gemund,Sezen Gulseren,182
+Johannes Van Gemund,Yasemin Ercan,65
+Kamini Karlekar,Johannes Van Gemund,269
+Kamini Karlekar,Nathalie Springuel,1299
+Kamini Karlekar,Nayana Bose,1142
+Kamini Karlekar,Other,5346
+Kamini Karlekar,Vadim Makeev,1762
+Karim Atassi,Alev Orsel Karaca,527
+Karim Atassi,Altug Ilkucan,219
+Karim Atassi,Amer Delic,377
+Karim Atassi,Carol Batchelor,2082
+Karim Atassi,Elif Selen Ay,768
+Karim Atassi,Luca Curci,76
+Karim Atassi,Other,15334
+Karim Atassi,Sezen Gulseren,27
+Karim Atassi,Yusra Hilal,65
+Loutfi Mahamoud Houssein,Other,19653
+Lucia Kovacova,Aydin Yaman,18
+Lucia Kovacova,Kubra Berki,415
+Lucia Kovacova,Nayana Bose,333
+Lucia Kovacova,Other,14335
+Lucia Kovacova,Zeynep Iclal Incioglu,521
+Luisa Seiler,Elif Selen Ay,233
+Luisa Seiler,Other,916
+Margarita Vargas,Luca Curci,51
+Margarita Vargas,Other,2578
+Melike Zontur,Gaye Ulutas,2102
+Melike Zontur,Harun Akkoz,426
+Melike Zontur,Ilhan Cin,13
+Melike Zontur,Kubra Berki,141
+Melike Zontur,Other,24792
+Melike Zontur,Pinar Genc Akcakaya,285
+Melike Zontur,Selin Unal,130
+Melike Zontur,Tayfun Albayrak,790
+Melike Zontur,Zeynep Iclal Incioglu,594
+Nathalie Springuel,Amer Delic,1171
+Nathalie Springuel,Elif Selen Ay,1975
+Nathalie Springuel,Karim Atassi,469
+Nathalie Springuel,Luca Curci,1813
+Nathalie Springuel,Other,20321
+Nathalie Springuel,Vadim Makeev,3385
+Nayana Bose,Alev Orsel Karaca,120
+Nayana Bose,Carol Batchelor,131
+Nayana Bose,Other,3694
+Nese Kilincoglu,Alev Orsel Karaca,1462
+Nese Kilincoglu,Altug Ilkucan,41
+Nese Kilincoglu,Elif Selen Ay,107
+Nese Kilincoglu,Karim Atassi,237
+Nese Kilincoglu,Other,7941
+Nijat Kerimov,Altug Ilkucan,263
+Nijat Kerimov,Karim Atassi,239
+Nijat Kerimov,Nikolay Vanchev,107
+Nijat Kerimov,Other,18915
+Nijat Kerimov,Tayfun Albayrak,213
+Nikolay Vanchev,Altug Ilkucan,479
+Nikolay Vanchev,Erhan Seylan,2451
+Nikolay Vanchev,Johannes Van Gemund,48
+Nikolay Vanchev,Nathalie Springuel,104
+Nikolay Vanchev,Other,9433
+Nikolay Vanchev,Tayfun Albayrak,932
+Nilda Carkanat,Other,481
+Peter Situma,Other,2202
+Pinar Genc Akcakaya,Erhan Vural,231
+Pinar Genc Akcakaya,Ilhan Cin,15
+Pinar Genc Akcakaya,Kubra Berki,334
+Pinar Genc Akcakaya,Other,8304
+Rachel Manning,Didem Yuce,189
+Rachel Manning,Fatma Duygu Ergul,76
+Rachel Manning,Firat Elmas,106
+Rachel Manning,Harun Akkoz,37
+Rachel Manning,Ilhan Cin,233
+Rachel Manning,Niyazi Salva,10
+Rachel Manning,Other,27957
+Rachel Manning,Said Abdullah,1032
+Raci Cemil Ozliyen,Ali Dher Hayo,44
+Raci Cemil Ozliyen,Argun Kopar,16
+Raci Cemil Ozliyen,Aydin Karaman,554
+Raci Cemil Ozliyen,Ilhan Cin,80
+Raci Cemil Ozliyen,Other,3423
+Raci Cemil Ozliyen,Serhat Idem,271
+Raci Cemil Ozliyen,Tayfun Albayrak,9
+Rana Milhem,Amer Delic,4568
+Rana Milhem,Christine Goyer,1976
+Rana Milhem,Ilhan Cin,14
+Rana Milhem,Jennifer Roberts,358
+Rana Milhem,Karim Atassi,1398
+Rana Milhem,Other,17515
+Rana Milhem,Selin Unal,73
+Rana Milhem,Tayba Sharif,66
+Rana Milhem,Taylan Dagci,15
+Rana Milhem,Zeynep Iclal Incioglu,377
+Rodrigo Valderrama,Kubra Berki,189
+Rodrigo Valderrama,Other,2039
+Saef Aljumaili,Argun Kopar,60
+Saef Aljumaili,Drene Sariffodeen,779
+Saef Aljumaili,Fatma Duygu Ergul,47
+Saef Aljumaili,Onder Dogan,20
+Saef Aljumaili,Other,14822
+Said Abdullah,Ali Dher Hayo,174
+Said Abdullah,Aydin Karaman,29
+Said Abdullah,Aydin Yaman,252
+Said Abdullah,Fatma Duygu Ergul,1780
+Said Abdullah,Harun Akkoz,509
+Said Abdullah,Ilhan Cin,166
+Said Abdullah,Niyazi Salva,13
+Said Abdullah,Other,20396
+Said Abdullah,Serhat Idem,109
+Seda Yakinol,Other,2186
+Selin Unal,Alev Orsel Karaca,1800
+Selin Unal,Altug Ilkucan,25
+Selin Unal,Carol Batchelor,327
+Selin Unal,Elif Selen Ay,224
+Selin Unal,Johannes Van Gemund,309
+Selin Unal,Karim Atassi,272
+Selin Unal,Nese Kilincoglu,38
+Selin Unal,Other,24836
+Selin Unal,Sezen Gulseren,1105
+Selma Kazmaz,Aydin Karaman,99
+Selma Kazmaz,Didem Yuce,216
+Selma Kazmaz,Niyazi Salva,26
+Selma Kazmaz,Other,6394
+Selma Kazmaz,Said Abdullah,91
+Selma Kazmaz,Taylan Dagci,19
+Selma Kazmaz,Teresita Cedeno,300
+Selma Kazmaz,Yasemin Ercan,1262
+Selma Kazmaz,Zeynep Iclal Incioglu,40
+Serhat Idem,Argun Kopar,239
+Serhat Idem,Aydin Karaman,221
+Serhat Idem,Didem Yuce,297
+Serhat Idem,Fatma Duygu Ergul,287
+Serhat Idem,Harun Akkoz,192
+Serhat Idem,Ilhan Cin,251
+Serhat Idem,Niyazi Salva,174
+Serhat Idem,Onder Dogan,58
+Serhat Idem,Other,4182
+Sezen Gulseren,Alev Orsel Karaca,35
+Sezen Gulseren,Amer Delic,26
+Sezen Gulseren,Carol Batchelor,19
+Sezen Gulseren,Elif Selen Ay,75
+Sezen Gulseren,Karim Atassi,52
+Sezen Gulseren,Luca Curci,112
+Sezen Gulseren,Nathalie Springuel,23
+Sezen Gulseren,Other,859
+Sezen Gulseren,Selin Unal,5456
+Song Jing,Amer Delic,147
+Song Jing,Jennifer Roberts,192
+Song Jing,Other,3856
+Tamara Gogoshidze,Altug Ilkucan,59
+Tamara Gogoshidze,Amer Delic,236
+Tamara Gogoshidze,Karim Atassi,159
+Tamara Gogoshidze,Luca Curci,130
+Tamara Gogoshidze,Nathalie Springuel,179
+Tamara Gogoshidze,Other,4492
+Tamara Gogoshidze,Vadim Makeev,292
+Tamara Gogoshidze,Yusra Hilal,132
+Tayba Sharif,Alev Orsel Karaca,63
+Tayba Sharif,Carol Batchelor,1
+Tayba Sharif,Christine Goyer,36
+Tayba Sharif,Drene Sariffodeen,308
+Tayba Sharif,Ilhan Cin,37
+Tayba Sharif,Karim Atassi,8
+Tayba Sharif,Other,10049
+Tayba Sharif,Tayfun Albayrak,70
+Tayba Sharif,Taylan Dagci,152
+Tayfun Albayrak,Ali Dher Hayo,112
+Tayfun Albayrak,Argun Kopar,533
+Tayfun Albayrak,Aydin Yaman,14
+Tayfun Albayrak,Brenda Goddard,112
+Tayfun Albayrak,Didem Yuce,160
+Tayfun Albayrak,Drene Sariffodeen,24
+Tayfun Albayrak,Erhan Seylan,720
+Tayfun Albayrak,Erhan Vural,228
+Tayfun Albayrak,Fatma Duygu Ergul,54
+Tayfun Albayrak,Firat Elmas,19
+Tayfun Albayrak,Gizem Ulic,41
+Tayfun Albayrak,Harun Akkoz,110
+Tayfun Albayrak,Ilhan Cin,112
+Tayfun Albayrak,Nikolay Vanchev,1568
+Tayfun Albayrak,Other,41203
+Tayfun Albayrak,Tayba Sharif,91
+Tayfun Albayrak,Taylan Dagci,354
+Taylan Dagci,Other,764
+Teresita Cedeno,Harun Akkoz,898
+Teresita Cedeno,Other,4331
+Teresita Cedeno,Song Jing,112
+Teresita Cedeno,Yusra Hilal,23
+Tugba Mater,Argun Kopar,11
+Tugba Mater,Ceren Aricigioglu,65
+Tugba Mater,Didem Yuce,39
+Tugba Mater,Gaye Ulutas,110
+Tugba Mater,Onder Dogan,362
+Tugba Mater,Other,8021
+Vadim Makeev,Other,4338
+Vito Trani,Alev Orsel Karaca,3572
+Vito Trani,Ali Dher Hayo,1955
+Vito Trani,Altug Ilkucan,3073
+Vito Trani,Carol Batchelor,826
+Vito Trani,Christine Goyer,58
+Vito Trani,Drene Sariffodeen,66
+Vito Trani,Harun Akkoz,61
+Vito Trani,Ilhan Cin,961
+Vito Trani,Karim Atassi,1365
+Vito Trani,Nikolay Vanchev,78
+Vito Trani,Other,32625
+Vito Trani,Said Abdullah,86
+Vito Trani,Selin Unal,3235
+Vito Trani,Sezen Gulseren,48
+Vito Trani,Song Jing,632
+Vito Trani,Tayba Sharif,1605
+Vito Trani,Tayfun Albayrak,41
+Yasemin Ercan,Aydin Yaman,374
+Yasemin Ercan,Other,1033
+Yusra Hilal,Karim Atassi,60
+Yusra Hilal,Other,8100
+Zeynep Iclal Incioglu,Altug Ilkucan,246
+Zeynep Iclal Incioglu,Aydin Yaman,255
+Zeynep Iclal Incioglu,Esra Su,27
+Zeynep Iclal Incioglu,Gizem Ulic,298
+Zeynep Iclal Incioglu,Ilhan Cin,157
+Zeynep Iclal Incioglu,Other,16350
+Ali Dher Hayo,Aydin Karaman,70
+Ali Dher Hayo,Christine Goyer,89
+Ali Dher Hayo,Didem Yuce,42
+Ali Dher Hayo,Fatma Duygu Ergul,4
+Ali Dher Hayo,Harun Akkoz,161
+Ali Dher Hayo,Ilhan Cin,225
+Ali Dher Hayo,Niyazi Salva,160
+Ali Dher Hayo,Other,28902
+Ali Dher Hayo,Serhat Idem,11
+Ali Dher Hayo,Tayba Sharif,75
+Harun Akkoz,Ali Dher Hayo,638
+Harun Akkoz,Didem Yuce,181
+Harun Akkoz,Drene Sariffodeen,361
+Harun Akkoz,Firat Elmas,71
+Harun Akkoz,Ilhan Cin,91
+Harun Akkoz,Other,3536
+Harun Akkoz,Said Abdullah,116
+Harun Akkoz,Serhat Idem,146
+Harun Akkoz,Teresita Cedeno,25
+Aydin Karaman,Ali Dher Hayo,51
+Aydin Karaman,Argun Kopar,91
+Aydin Karaman,Aydin Yaman,475
+Aydin Karaman,Didem Yuce,238
+Aydin Karaman,Fatma Duygu Ergul,1836
+Aydin Karaman,Ilhan Cin,573
+Aydin Karaman,Niyazi Salva,104
+Aydin Karaman,Other,10689
+Aydin Karaman,Serhat Idem,155
+Aydin Karaman,Yasemin Ercan,370
+Aysegul Sireilles,Elif Selen Ay,750
+Aysegul Sireilles,Other,1642
+Fatma Duygu Ergul,Ali Dher Hayo,39
+Fatma Duygu Ergul,Aydin Karaman,678
+Fatma Duygu Ergul,Didem Yuce,316
+Fatma Duygu Ergul,Ilhan Cin,116
+Fatma Duygu Ergul,Niyazi Salva,281
+Fatma Duygu Ergul,Other,29201
+Fatma Duygu Ergul,Said Abdullah,2081
+Fatma Duygu Ergul,Serhat Idem,142
+Fatma Duygu Ergul,Tugba Mater,79
+Onder Dogan,Ceren Aricigioglu,42
+Onder Dogan,Christine Goyer,43
+Onder Dogan,Ilhan Cin,162
+Onder Dogan,Other,7468
+Onder Dogan,Serhat Idem,109
+Onder Dogan,Tayfun Albayrak,92
+Onder Dogan,Tugba Mater,199
+Onder Dogan,Yasemin Ercan,75
+Ceren Aricioglu,Didem Yuce,68
+Ceren Aricioglu,Ilhan Cin,1543
+Ceren Aricioglu,Other,2628
+Ceren Aricioglu,Tugba Mater,29
+Joseck Manyara,Karim Atassi,116
+Joseck Manyara,Other,11484
+Other, Other,0
